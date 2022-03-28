@@ -1,4 +1,5 @@
-### Hi there 👋
+### "The history of the world is the history of the triumph of the heartless over the mindless."
+### 
 
 <!--
 **biepin7/biepin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,3 +21,5 @@ Here are some ideas to get you started:
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biepin7)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biepin7)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=biepin7)](https://git.io/streak-stats)
