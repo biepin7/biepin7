@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ![Metrics](https://metrics.lecoq.io/biepin7?template=classic&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FShanghai)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biepin7)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biepin7)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biepin7)](https://github.com/anuraghazra/github-readme-stats)
